@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519358925099",
+    "project_id": "ride-share-798ed",
+    "storage_bucket": "ride-share-798ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519358925099:android:a83cd1c2a48e012c561d6e",
+        "android_client_info": {
+          "package_name": "com.stephenkachikwu.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519358925099-pnovc11astqbkq4cvbia17v18rr510f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXCz9TU_Wj1GMSbHpWvUavXHcRRyY9WS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519358925099-pnovc11astqbkq4cvbia17v18rr510f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
